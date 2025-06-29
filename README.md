@@ -30,7 +30,6 @@ Une des principales difficultés de ces projets a été la politique de sécurit
 - `projet_detection_signature`: projet 1
 - `projet_mots_interdits`: projet 3
 - `rapport_et_oral_stage`: compte rendu de mon stage
-- `Installation_poste_travail_banque.docx`: processus d'installation de python sur le poste de travail
 
 ---
 
